@@ -4,3 +4,5 @@
 *lemon
 *salt
 ## Instructions
+*chop avocado into a bowl
+
